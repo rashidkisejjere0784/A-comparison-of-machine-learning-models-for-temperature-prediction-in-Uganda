@@ -1,1 +1,1 @@
-# A comparision of machine leaerning models for temperature prediction in Uganda
+# A comparision of machine learning models for temperature prediction in Uganda
